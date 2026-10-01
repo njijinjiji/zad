@@ -10,9 +10,11 @@ dependencies:
     sdk: flutter
 
   share_plus: ^10.1.4
-
+  shared_preferences: ^2.3.2
+  
 flutter:
   uses-material-design: true
 
   assets:
     - lib/data/mutoon.json
+    - lib/data/adhkar.json
